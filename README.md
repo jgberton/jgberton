@@ -1,8 +1,18 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%">
+</p>
+
+<h1 align="center">
 # Hi there! 👋 I'm José Gabriel Berton
+</h1>
 
+<p align="center">
 ### Software Developer
+</p>
 
+<p align="center">
 > **Building digital products from idea to production.**
+</p>
 
 I'm a Software Developer passionate about solving real-world problems through technology.
 
@@ -12,7 +22,7 @@ My journey combines software development, product thinking and business experien
 
 ---
 
-# 🚀 Featured Products
+# 🚀 Featured Projects
 
 ## 📱 Get & Use
 
