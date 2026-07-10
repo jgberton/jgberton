@@ -105,7 +105,7 @@ I recently started sharing my career transition on LinkedIn, writing about softw
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/josé-gabriel-berton-874401323/
+https://www.linkedin.com/in/jgberton
 
 🌐 **Portfolio**
 
