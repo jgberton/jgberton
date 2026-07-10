@@ -3,16 +3,16 @@
 </p>
 
 <h1 align="center">
-# Hi there! 👋 I'm José Gabriel Berton
+José Gabriel Berton
 </h1>
 
-<p align="center">
-### Software Developer
-</p>
+<h2 align="center">
+Software Developer
+</h2>
 
-<p align="center">
-> **Building digital products from idea to production.**
-</p>
+<h3 align="center">
+Building digital products from idea to production.**
+</h3>
 
 I'm a Software Developer passionate about solving real-world problems through technology.
 
