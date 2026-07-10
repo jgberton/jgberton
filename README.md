@@ -1,67 +1,80 @@
-# Hi, I'm José Gabriel Berton 👋
+# Hi there! 👋 I'm José Gabriel Berton
 
-### Software Developer | React Native | TypeScript | Firebase
+### Software Developer
 
-I build digital products from idea to production, combining software development, product thinking and business experience.
+> **Building digital products from idea to production.**
 
-📍 Florianópolis, Brazil
+I'm a Software Developer passionate about solving real-world problems through technology.
+
+My journey combines software development, product thinking and business experience. I enjoy turning ideas into complete digital products, from architecture and implementation to deployment and continuous improvement.
+
+📍 Florianópolis, SC - Brazil
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Products
 
-### 📱 Get & Use
+## 📱 Get & Use
 
-Marketplace for renting and sharing everyday items.
+**Peer-to-peer marketplace for renting everyday items.**
 
-Responsible for the entire product development, from architecture to deployment.
+A complete marketplace built with React Native and Firebase, allowing users to rent, lend and manage items through a modern mobile experience.
 
-**Highlights**
+### Highlights
 
-- React Native + Expo
-- TypeScript
-- Firebase (Auth, Firestore, Storage & Cloud Functions)
-- Mercado Pago integration
-- Real-time chat
+- Authentication & User Profiles
+- Marketplace Listings
+- Reservation System
+- Mercado Pago Integration
+- Real-time Chat
 - Push Notifications
-- Reservation system
-- Google Play deployment
+- Image Upload
+- Reviews & Ratings
+- Google Play Deployment
+
+**Tech Stack**
+
+React Native • Expo • TypeScript • Firebase • Firestore • Cloud Functions • Storage • Mercado Pago
 
 🌐 https://geteuse.com.br
 
-📲 Google Play:
+📱 Google Play
+
 https://play.google.com/store/apps/details?id=com.getanduseapp
 
 ---
 
-### 📱 EasyRedes
+## 📱 EasyRedes
 
-ERP mobile application for companies specializing in safety net installations.
+**Mobile ERP for safety net installation companies.**
 
-Main features:
+Application created to simplify field operations, customer management and inventory control.
 
-- Customer management
-- Inventory
+### Main Features
+
+- Customer Management
+- Inventory Control
 - Scheduling
-- PDF quotations
-- Cloud synchronization
+- PDF Quotations
+- Cloud Synchronization
 
-Stack:
+**Tech Stack**
 
-React Native • Firebase • TypeScript
-
----
-
-### 🧠 TMT Digital
-
-Digital version of the Trail Making Test used by healthcare professionals.
+React Native • Expo • TypeScript • Firebase
 
 ---
 
-## 💻 Tech Stack
+## 🧠 TMT Digital
+
+Digital version of the **Trail Making Test**, developed for healthcare professionals.
+
+---
+
+# 💻 Tech Stack
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000000?logo=expo)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
@@ -69,28 +82,39 @@ Digital version of the Trail Making Test used by healthcare professionals.
 
 ---
 
-## 📚 Currently Learning
+# 🎯 What I enjoy building
 
-- Clean Architecture
-- Automated Testing
-- CI/CD
-- Mobile Performance
-- Software Architecture
-
----
-
-## ✍️ Writing
-
-**Da Operação ao Produto**
-
-A series of reflections about software development, business and product building.
+- Mobile Applications
+- SaaS Platforms
+- Marketplaces
+- Business Automation
+- Digital Products
+- User-centered Solutions
 
 ---
 
-## 🌎 Let's connect
+# ✍️ Writing
 
-[LinkedIn](...)
+### **From Operations to Digital Products**
 
-[Portfolio](...)
+I recently started sharing my career transition on LinkedIn, writing about software development, product thinking, leadership and the lessons learned while building digital products.
 
-[Get & Use](...)
+---
+
+# 🌎 Connect with me
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/josé-gabriel-berton-874401323/
+
+🌐 **Portfolio**
+
+https://jgberton.web.app
+
+🚀 **Get & Use**
+
+https://geteuse.com.br
+
+---
+
+⭐ *Software is just the tool. Solving real problems is the goal.*
