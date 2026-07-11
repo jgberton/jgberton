@@ -7,77 +7,45 @@ José Gabriel Berton
 </h1>
 
 <h2 align="center">
-Software Developer
+Software Engineer | Product Developer
 </h2>
 
 <h3 align="center">
 Building digital products from idea to production.
 </h3>
 
-I'm a Software Developer passionate about solving real-world problems through technology.
+I'm a software engineer passionate about transforming real-world problems into digital products.
 
-My journey combines software development, product thinking and business experience. I enjoy turning ideas into complete digital products, from architecture and implementation to deployment and continuous improvement.
+My journey combines software engineering, product thinking and business experience. I enjoy taking products from idea and architecture to deployment, continuous improvement and real-world use.  
 
-📍 Florianópolis, SC - Brazil
+📍 Florianópolis, SC - Brazil  
 
----
-
-# 🚀 Featured Projects
-
-## 📱 Get & Use
-
-**Peer-to-peer marketplace for renting everyday items.**
-
-A complete marketplace built with React Native and Firebase, allowing users to rent, lend and manage items through a modern mobile experience.
-
-### Highlights
-
-- Authentication & User Profiles
-- Marketplace Listings
-- Reservation System
-- Mercado Pago Integration
-- Real-time Chat
-- Push Notifications
-- Image Upload
-- Reviews & Ratings
-- Google Play Deployment
-
-**Tech Stack**
-
-React Native • Expo • TypeScript • Firebase • Firestore • Cloud Functions • Storage • Mercado Pago
-
-🌐 https://geteuse.com.br
-
-📱 Google Play
-
-https://play.google.com/store/apps/details?id=com.getanduseapp
+I enjoy building software across different domains — from marketplaces and enterprise systems to research and healthcare applications.  
 
 ---
 
-## 📱 EasyRedes
+# 🚀 Selected Case Studies
 
-**Mobile ERP for safety net installation companies.**
+## 🛒 Get & Use
 
-Application created to simplify field operations, customer management and inventory control.
+Production-ready peer-to-peer marketplace with real-time chat, booking management and integrated payments.
 
-### Main Features
+[![View Case Study](https://img.shields.io/badge/View-Case_Study-57ff8f?style=for-the-badge)](https://github.com/jgberton/get-use-case-study)
 
-- Customer Management
-- Inventory Control
-- Scheduling
-- PDF Quotations
-- Cloud Synchronization
+---
 
-**Tech Stack**
+## 🏢 EasyRedes ERP
 
-React Native • Expo • TypeScript • Firebase
+Operational ERP developed for safety net installation companies, including CRM, inventory management, quotations, PDF generation and multi-tenant architecture.
 
+[![View Case Study](https://img.shields.io/badge/View-Case_Study-1E90FF?style=for-the-badge)](https://github.com/jgberton/easyredes-erp)
 ---
 
 ## 🧠 TMT Digital
 
-Digital version of the **Trail Making Test**, developed for healthcare professionals.
+Digital adaptation of the Trail Making Test developed to support academic neuropsychological research through a tablet-first experience.
 
+[![View Case Study](https://img.shields.io/badge/View-Case_Study-BA55D3?style=for-the-badge)](https://github.com/jgberton/tmt-digital-case-study)
 ---
 
 # 💻 Tech Stack
@@ -87,19 +55,22 @@ Digital version of the **Trail Making Test**, developed for healthcare professio
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000000?logo=expo)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black)
+![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-FFCA28?logo=firebase&logoColor=black)
+![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FFCA28?logo=firebase&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
 ---
 
 # 🎯 What I enjoy building
 
-- Mobile Applications
-- SaaS Platforms
-- Marketplaces
-- Business Automation
-- Digital Products
-- User-centered Solutions
+• Digital Products
+• SaaS Platforms
+• Enterprise Software
+• Mobile Applications
+• Marketplaces
+• Business Automation
+• User-centered Solutions
 
 ---
 
@@ -107,23 +78,20 @@ Digital version of the **Trail Making Test**, developed for healthcare professio
 
 ### **From Operations to Digital Products**
 
-I recently started sharing my career transition on LinkedIn, writing about software development, product thinking, leadership and the lessons learned while building digital products.
-
+Sharing lessons learned while transitioning from operations to software engineering, product development and entrepreneurship.
 ---
 
 # 🌎 Connect with me
 
-💼 **LinkedIn**
+<p align="center">
 
-https://www.linkedin.com/in/jgberton
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Berton-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgberton)
 
-🌐 **Portfolio**
+[![Portfolio](https://img.shields.io/badge/Portfolio-jgberton.web.app-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jgberton.web.app)
 
-https://jgberton.web.app
+[![Get&Use](https://img.shields.io/badge/Get&Use-Live_App-57ff8f?style=for-the-badge&logo=android&logoColor=black)](https://geteuse.com.br)
 
-🚀 **Get & Use**
-
-https://geteuse.com.br
+</p>
 
 ---
 
