@@ -20,7 +20,7 @@ My journey combines software engineering, product thinking and business experien
 
 📍 Florianópolis, SC - Brazil  
 
-I enjoy building software across different domains — from marketplaces and enterprise systems to research and healthcare applications.  
+I enjoy building software across different domains, from marketplaces and enterprise systems to research and healthcare applications.  
 
 ---
 
@@ -54,7 +54,8 @@ Digital adaptation of the Trail Making Test developed to support academic neurop
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000000?logo=expo)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black)
 ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-FFCA28?logo=firebase&logoColor=black)
 ![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FFCA28?logo=firebase&logoColor=black)
@@ -64,19 +65,25 @@ Digital adaptation of the Trail Making Test developed to support academic neurop
 
 # 🎯 What I enjoy building
 
-• Digital Products
-• SaaS Platforms
-• Enterprise Software
-• Mobile Applications
-• Marketplaces
-• Business Automation
+• Digital Products  
+
+• SaaS Platforms  
+
+• Enterprise Software  
+
+• Mobile Applications  
+
+• Marketplaces  
+
+• Business Automation  
+
 • User-centered Solutions
 
 ---
 
 # ✍️ Writing
 
-### **From Operations to Digital Products**
+## **From Operations to Digital Products**
 
 Sharing lessons learned while transitioning from operations to software engineering, product development and entrepreneurship.
 ---
@@ -86,9 +93,7 @@ Sharing lessons learned while transitioning from operations to software engineer
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Berton-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgberton)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-jgberton.web.app-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jgberton.web.app)
-
 [![Get&Use](https://img.shields.io/badge/Get&Use-Live_App-57ff8f?style=for-the-badge&logo=android&logoColor=black)](https://geteuse.com.br)
 
 </p>
